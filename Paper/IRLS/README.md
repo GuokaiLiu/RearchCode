@@ -3,3 +3,4 @@
 * [The meaning of notation like  f:R2→Rf:R2→R ,  x∈Rnx∈Rn , and  x∈Rx∈R ](https://math.stackexchange.com/questions/1092702/the-meaning-of-notation-like-f-colon-mathbb-r2-to-mathbb-r-x-in-mathbb)
 * [Math Plot Online](http://www.wolframalpha.com/input/?i=f(x_1,+x_2)+%3D+2x_1%5E2+%2B+3x_2%5E2)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* [皮尔逊相关系数](https://zh.wikipedia.org/wiki/%E6%96%AF%E7%9A%AE%E5%B0%94%E6%9B%BC%E7%AD%89%E7%BA%A7%E7%9B%B8%E5%85%B3%E7%B3%BB%E6%95%B0)
