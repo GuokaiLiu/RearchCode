@@ -1,1 +1,1 @@
-* ![result]('dnn-IRLS-result.jpg')
+![result](dnn-IRLS-result.jpg)
