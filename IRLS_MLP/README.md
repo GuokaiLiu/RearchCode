@@ -1,2 +1,2 @@
-![result](generated-data.jpg)
-![result](dnn-IRLS-result.jpg)
+![result](regression_result.png)
+
