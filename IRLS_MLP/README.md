@@ -25,6 +25,6 @@
 - http://80.82.77.84/
 
 **Neural Networks: Tricks of the Trade**
--![Neural Networks: Tricks of the Trade-Chapter 9](http://www.bookmetrix.com/detail/chapter/d13b2b32-9ce1-4ed2-9585-c1f5b8b81040#downloads)
+-[Neural Networks: Tricks of the Trade-Chapter 9](http://www.bookmetrix.com/detail/chapter/d13b2b32-9ce1-4ed2-9585-c1f5b8b81040#downloads)
 ![result](regression_result.png)
 
