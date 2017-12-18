@@ -26,6 +26,8 @@
 
 **Neural Networks: Tricks of the Trade**
 - [Neural Networks: Tricks of the Trade-Chapter 9](http://www.bookmetrix.com/detail/chapter/d13b2b32-9ce1-4ed2-9585-c1f5b8b81040#downloads)
+- [我爱公开课](http://52opencourse.com/1156/neural-networks-tricks-of-the-trade)
+- [Neural Networks Tricks of the Trade-百度云密码：Ojey](http://pan.baidu.com/s/1sjx1jsx )
 
 ![result](regression_result.png)
 
