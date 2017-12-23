@@ -1,4 +1,4 @@
-![diff](earth-diff.png)
+![diff](y_difference.png)
 
 **Google - robust regression neural network**
 - [A neat trick to increase robustness of regression models](https://clevertap.com/blog/a-neat-trick-to-increase-robustness-of-regression-models/)
