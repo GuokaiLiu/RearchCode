@@ -32,5 +32,12 @@
 - [我爱公开课](http://52opencourse.com/1156/neural-networks-tricks-of-the-trade)
 - [Neural Networks Tricks of the Trade-百度云密码：ojey](http://pan.baidu.com/s/1sjx1jsx )
 
+**Matplotlib**
+- [Matplotlib how to change figsize for matshow](https://stackoverflow.com/questions/43021762/matplotlib-how-to-change-figsize-for-matshow)
+- [How to change the font size on a matplotlib plot](https://stackoverflow.com/questions/3899980/how-to-change-the-font-size-on-a-matplotlib-plot)
+- [pylab_examples example code: histogram_percent_demo.py](https://matplotlib.org/examples/pylab_examples/histogram_percent_demo.html)
+- []()
+
+
 ![result](regression_result.png)
 
