@@ -38,6 +38,9 @@
 - [pylab_examples example code: histogram_percent_demo.py](https://matplotlib.org/examples/pylab_examples/histogram_percent_demo.html)
 - []()
 
+**Videos**
+- [Youtube-Geophysical Exploration](https://www.youtube.com/watch?v=-ad_WLKgA1A)
+
 
 ![result](regression_result.png)
 
